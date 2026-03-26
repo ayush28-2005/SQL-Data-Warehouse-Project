@@ -32,7 +32,6 @@ This project involves:
 - Data Analytics
   
 ## 🛠️ Important Links & Tools:
-Everything is for Free!
 
 Datasets: Access to the project dataset (csv files).
 SQL Server Express: Lightweight server for hosting your SQL database.

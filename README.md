@@ -31,7 +31,7 @@ This project involves:
 - Data Modeling  
 - Data Analytics
   
-🛠️ Important Links & Tools:
+## 🛠️ Important Links & Tools:
 Everything is for Free!
 
 Datasets: Access to the project dataset (csv files).
@@ -58,4 +58,6 @@ Documentation: Provide clear documentation of the data model to support both bus
 This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
-Hi there! I'm Baraa Khatib Salkini, also known as Data With Baraa. I’m an IT professional and passionate YouTuber on a mission to share knowledge and make working with data enjoyable and engaging!
+Hi there! I'm Ayush Saha, a Computer Science student with a strong passion for data and technology. I enjoy exploring the world of data engineering and continuously learning new skills to build efficient and scalable solutions.
+
+I’m enthusiastic about working with data, solving real-world problems, and sharing knowledge in a simple and engaging way. My goal is to grow as a data professional while making data-driven concepts easy and interesting for others to understand.

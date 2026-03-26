@@ -54,3 +54,10 @@ Integration: Combine both sources into a single, user-friendly data model design
 Scope: Focus on the latest dataset only; historization of data is not required.
 Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
+🛡️ License
+This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+
+🌟 About Me
+Hi there! I'm Ayush Saha, a Computer Science student with a strong passion for data and technology. I enjoy exploring the world of data engineering and continuously learning new skills to build efficient and scalable solutions.
+
+I’m enthusiastic about working with data, solving real-world problems, and sharing knowledge in a simple and engaging way. My goal is to grow as a data professional while making data-driven concepts easy and interesting for others to understand.
